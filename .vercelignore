@@ -3,7 +3,6 @@ env/
 __pycache__/
 *.pyc
 *.pkl
-*.h5
 *.csv
 *.zip
 .ipynb_checkpoints/
